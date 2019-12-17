@@ -10,7 +10,7 @@ namespace ConsoleAppGit
     {
         static void Main(string[] args)
         {
-            int a =12;
+            int 78 =12;
             Console.WriteLine("Test code");
             Console.ReadLine();
         }
