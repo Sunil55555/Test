@@ -1,0 +1,7 @@
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\bin\Debug\ConsoleAppGit.exe.config
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\bin\Debug\ConsoleAppGit.exe
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\bin\Debug\ConsoleAppGit.pdb
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.csprojAssemblyReference.cache
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.csproj.CoreCompileInputs.cache
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.exe
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.pdb
