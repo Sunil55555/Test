@@ -14,7 +14,7 @@ namespace ConsoleAppGit
             int b =234;
             int c = a + b;
 
-            Console.WriteLine("Test code"+ c);
+            Console.WriteLine("Test code"+ c );
             Console.ReadLine();
         }
     }
