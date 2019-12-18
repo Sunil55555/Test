@@ -14,7 +14,7 @@ namespace ConsoleAppGit
         public void test()
         {
             Program p = new Program();
-            Assert.AreEqual(56, p.calculate());
+            Assert.AreEqual(57, p.calculate());
         }
     }
 }
