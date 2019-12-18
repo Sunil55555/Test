@@ -5,3 +5,7 @@ C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.cs
 C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.csproj.CoreCompileInputs.cache
 C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.exe
 C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.pdb
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\bin\Debug\nunit.framework.dll
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\bin\Debug\nunit.framework.pdb
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\bin\Debug\nunit.framework.xml
+C:\Sunil\Projects\GitProj\ConsoleAppGit\ConsoleAppGit\obj\Debug\ConsoleAppGit.csproj.CopyComplete

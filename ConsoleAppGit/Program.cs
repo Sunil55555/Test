@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppGit
 {
-    class Program
+    public class Program
     {
+        public int calculate(int a=24, int b=32)
+        {
+            int c = a + b;
+            return c;
+        }
+
         static void Main(string[] args)
         {
-            int a =12;
-            int b =234;
-            int c = a + b;
-
-            Console.WriteLine("Test code"+ c );
+            Console.WriteLine("Test demo");
             Console.ReadLine();
         }
+
     }
 }
