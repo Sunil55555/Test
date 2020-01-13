@@ -10,6 +10,7 @@ namespace ConsoleAppGit
     {
         public int calculate(int a=24, int b=32)
         {
+            int e=0;
             int c = a + b;
             return c;
         }
